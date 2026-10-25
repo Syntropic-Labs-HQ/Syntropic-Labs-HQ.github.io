@@ -47,7 +47,7 @@ Deployment is fully automated through GitHub Actions:
 
 ## Author
 
-Created by Shahsawar Orakzai (@orakzai-io), Founder of Syntropic Labs.
+Created by Shahsawar Orakzai ([@orakzai-io](https://github.com/orakzai-io)), Founder of Syntropic Labs.
 
 ---
 
